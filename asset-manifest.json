@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typescript-todo/static/css/main.206240e4.css",
+    "main.js": "/typescript-todo/static/js/main.6ea905d1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/typescript-todo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/typescript-todo/index.html",
+    "main.206240e4.css.map": "/typescript-todo/static/css/main.206240e4.css.map",
+    "main.6ea905d1.js.map": "/typescript-todo/static/js/main.6ea905d1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/typescript-todo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206240e4.css",
+    "static/js/main.6ea905d1.js"
+  ]
+}
