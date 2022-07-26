@@ -1,0 +1,38 @@
+.todoContainer {
+  display: flex;
+  flex-direction: column;
+  background: #ABA5E5;
+  box-shadow: 15px 10px 11px -8px #ABA5E5;
+  margin-bottom: 15px;
+  width: 900px;
+  padding: 25px 20px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.fieldsContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.fieldContainer {
+  width: 100%;
+}
+.fieldContainer label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 15px;
+}
+.fieldContainer input {
+  font-size: 15px;
+  padding: 10px 5px;
+  border-radius: 2px;
+  border: 0.5 solid #000;
+}
+.buttonContainer{
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+}
